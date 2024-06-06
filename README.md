@@ -1,7 +1,7 @@
 # Omah Lay Fanpage CSS Project
 ![](assets/OmahLayScreenshot.PNG)
 ## Context and Description
-This project was the final task of the "HTML5 and CSS Fundamentals" edX course. I was tasked with building a celebrity fanpage for my favourite artiste using the basic HTML elements I learned and CSS for styling.
+This project was the final task of the [HTML5 and CSS Fundamentals](https://www.edx.org/learn/css/the-world-wide-web-consortium-w3c-html5-and-css-fundamentals) edX course. I was tasked with building a celebrity fanpage for my favourite artiste using the basic HTML elements I learned and CSS for styling.
 ## How to run
 * Ensure you have a modern web browser installed
 * Open the index.html file in your web browser
